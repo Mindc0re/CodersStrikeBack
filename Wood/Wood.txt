@@ -1,5 +1,0 @@
-J'ai passé à peu près 25min sur la première ligue, Wood 3 -> Wood 1.
-
-Pour le début de ce challenge, j'ai décidé d'utiliser mon boost dès le départ, quand j'étais assez loin du nextCheckpoint pour que cela ne me fase pas défaut et que je ne me retrouve pas avec une accélération trop forte en arrivant sur un checkpoint.
-
-Par la suite, je pense calculer la distance entre l'adversaire et moi afin d'utiliser plus judicieusement mon boost.
